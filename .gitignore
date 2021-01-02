@@ -1,0 +1,6 @@
+# Virtual Enviornment
+venv
+*.vscode
+*.pyc
+*/__pycache__/**
+staticfiles/**
